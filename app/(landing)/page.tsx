@@ -8,8 +8,7 @@ const LandingPage = () => {
             <LandingNavbar />
             <LandingHero />
             <LandingContent />
-            <p className=" bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 font-bold text-white text-center p-3"> Created by Yehuda Shtern - All rights reserved</p>
-
+            <p className=" bg-gradient-to-r  from-indigo-500 via-purple-500 to-pink-500 font-bold text-white text-center p-3"> Created by Yehuda Shtern - All rights reserved!</p>
         </div>
     );
 }
